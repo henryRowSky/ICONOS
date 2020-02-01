@@ -13,7 +13,7 @@ resultadoNumero = parseFloat(resultadoArreglado);
 
 var saludo, nombre, APaterno, AMaterno, nomUp, nomDown, ;
 
-nombre = `kike`;
+nombre = `K1k3`;
 APaterno = `LPZ`;
 AMaterno = `Flores`;
 
